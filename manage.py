@@ -54,3 +54,20 @@ if __name__ == '__main__':
 #
 #     def __str__(self):
 #         return self.titulo
+
+#criar pasta template botao direito no projeto new directory
+#botao direito no template new file HTML5
+#views def
+#url criar rota
+# #agenda settings registrar templates
+#     def __str__(self):
+#         return self.titulo
+#
+#     def get_data_criacao(self): formato brasileiro
+#         return self.data_evento.strftime("%d/%m/%Y")
+# Em agenda!!
+# <ul>
+#         {%for evento in eventos %}
+#         <li> {{evento.titulo}} - {{evento.get_data_evento}}</li>
+#         {% endfor %}
+#     </ul>
